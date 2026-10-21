@@ -1,0 +1,14 @@
+FINE CRAFT — PALETTE STUDIES
+
+Open Colors in the navbar, or Choose your palette in the footer.
+
+Seven palettes:
+1. Red & cream
+2. Blue & pearl
+3. Black & white
+4. Golden & white
+5. Orange & white
+6. Blue, silver & white
+7. Pearl white & soft gold
+
+The fish, background, glass panels and folder artwork share the selected palette.

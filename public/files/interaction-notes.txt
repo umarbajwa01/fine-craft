@@ -1,0 +1,9 @@
+FINE CRAFT — LIVING KOI
+
+Move your cursor to guide the fish. Its body bends through turns; the tail follows with a small delay and its fins move independently.
+
+The fish follows one continuous path across the page. It softens to 46% opacity beneath content and returns to the foreground around the hero and footer.
+
+Reduced-motion preferences suppress ambient movement while keeping direct pointer interaction available.
+
+This is an articulated 2.5D fish texture, not a volumetric model.

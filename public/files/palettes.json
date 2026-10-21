@@ -1,0 +1,30 @@
+{
+  "silverblue": {
+    "label": "Blue, silver & white",
+    "background": "#0b1b2b"
+  },
+  "pearlgold": {
+    "label": "Pearl white & soft gold",
+    "background": "#29251c"
+  },
+  "coral": {
+    "label": "Red & cream",
+    "background": "#aa0015"
+  },
+  "cobalt": {
+    "label": "Blue & pearl",
+    "background": "#050e25"
+  },
+  "monochrome": {
+    "label": "Black & white",
+    "background": "#111111"
+  },
+  "golden": {
+    "label": "Golden & white",
+    "background": "#2c210f"
+  },
+  "orange": {
+    "label": "Orange & white",
+    "background": "#571c0c"
+  }
+}
